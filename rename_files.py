@@ -11,7 +11,7 @@ def change_given_files(allfilenames, special_char):
     rexfiles =  list(filter(ref, allfilenames))
 
     for file in rexfiles:
-        new_file_name = re.sub(">", "", file)
+        new_file_name = re.sub(special_char, "", file)
         os.rename(file, new_file_name)
 
 def change_filenames(special_char=">"):

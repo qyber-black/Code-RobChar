@@ -1,7 +1,7 @@
 # robchar
 Monte Carlo ROBustness CHARacterization and analysis of static controllers obtained using various gradient and gradient-free methods 
 This is code accompanying the work "Statistically Characterising Robustness and Fidelity of Quantum Controls and
-Quantum Control Algorithms (2022)" (here)[https://arxiv.org/abs/2207.07801]. The quantum model is an effective Heisenberg XXZ chain. 
+Quantum Control Algorithms (2022)" [here](https://arxiv.org/abs/2207.07801). The quantum model is an effective Heisenberg XXZ chain. 
 In the paper, we don't enable the Z interaction available in the code. 
 
 To setup, please run 

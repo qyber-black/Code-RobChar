@@ -16,7 +16,7 @@ def change_given_files(allfilenames, special_char, replace_char=""):
 
 def change_filenames(special_char=">"):
     # bash command
-    os.system("""find $pwd -type d | awk -F"/" 'NF > max {max = NF} END {print max}' >> filestructure.txt""")
+    os.system("""find $pwd -type d | awk -F"/" 'NF > max {max = NF} END {print max}' > filestructure.txt""")
     max_dir_depth = open("filestructure.txt", "r").read().split("\n")[0]
     max_dir_depth = int(max_dir_depth)
     for i in range(max_dir_depth):

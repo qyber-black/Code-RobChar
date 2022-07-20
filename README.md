@@ -7,8 +7,8 @@ In the paper, we don't enable the Z interaction available in the code.
 To setup, please run 
 
 ```bash
-git clone https://qyber.black/spinnet/robchar/-/tree/public
-cd robchar
+git clone https://github.com/Qyber-black/robchar_public/
+cd robchar_public
 pip3 install -r requirements.txt
 ```
 Important/Likely Novel dependencies are sklearn, skquant and pytorch.

@@ -60,6 +60,4 @@ at https://qyber.black/spinnet/code-robchar
 This code is mirrored at
 * https://github.com/Qyber-black/robchar_public
 
-https://github.com/xis10z/Code-MatSpinNet
-
 The mirrors are only for convenience, accessibility and backup.

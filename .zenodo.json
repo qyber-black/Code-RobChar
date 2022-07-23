@@ -1,7 +1,7 @@
 {
-    "description": "<p>Code for robustness characterization of quantum controls and quantum control algorithms. This is code accompanying the work Statistically Characterising Robustness and Fidelity of Quantum Controls and Quantum Control Algorithms (2022), arXiv:2207.07801</p>", 
-    "license": "apache-2.0", 
-    "tite": "RobChar: Robust Characterisation of Quantum Controls and Control Algorithms",
+    "description": "<p>Code for robustness characterization of quantum controls and quantum control algorithms. This is code accompanying the work \"Statistically Characterising Robustness and Fidelity of Quantum Controls and Quantum Control Algorithms\" (2022), <a href=\"https://arxiv.org/abs/2207.07801\">arXiv:2207.07801</a></p>", 
+    "license": "Apache-2.0", 
+    "title": "RobChar: Robust Characterisation of Quantum Controls and Control Algorithms",
     "version": "v1.0.1", 
     "upload_type": "software", 
     "publication_date": "2022-07-23", 
@@ -14,13 +14,17 @@
             "affiliation": "Bristol University",
             "name": "Carrie A. Weidner"
         },
+        { 
+            "affiliation": "Univeristy of Southern California",
+            "name": "Edmond A. Jonckheere"
+        },
         {
             "affiliation": "Swansea University",
-            "name": "Sophie Shermer"
+            "name": "Sophie G. Shermer"
         },
         {
             "affiliation": "Cardiff University", 
-            "name": "Frank Langbein"
+            "name": "Frank C. Langbein"
         }
     ], 
     "access_right": "open", 
@@ -31,10 +35,10 @@
             "relation": "isSupplementTo"
         }, 
         {
-            "scheme": "url", 
-            "identifier": "https://qyber.black/spinnet/code-robchar", 
+            "scheme": "url",
+            "identifier": "https://qyber.black/spinnet/code-robchar",
             "relation": "isSupplementTo"
-        }, 
+        },
         {
             "scheme": "doi", 
             "identifier": "10.5281/zenodo.6891152", 

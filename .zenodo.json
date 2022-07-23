@@ -27,12 +27,5 @@
             "name": "Frank C. Langbein"
         }
     ], 
-    "access_right": "open", 
-    "related_identifiers": [
-        {
-            "scheme": "doi", 
-            "identifier": "10.5281/zenodo.6891152", 
-            "relation": "isVersionOf"
-        }
-    ]
+    "access_right": "open"
 }

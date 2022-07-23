@@ -30,11 +30,6 @@
     "access_right": "open", 
     "related_identifiers": [
         {
-            "scheme": "url", 
-            "identifier": "https://github.com/qyber-black/robchar_public", 
-            "relation": "isSupplementTo"
-        }, 
-        {
             "scheme": "doi", 
             "identifier": "10.5281/zenodo.6891152", 
             "relation": "isVersionOf"

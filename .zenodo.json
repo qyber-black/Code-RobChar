@@ -35,11 +35,6 @@
             "relation": "isSupplementTo"
         }, 
         {
-            "scheme": "url",
-            "identifier": "https://qyber.black/spinnet/code-robchar",
-            "relation": "isSupplementedBy"
-        },
-        {
             "scheme": "doi", 
             "identifier": "10.5281/zenodo.6891152", 
             "relation": "isVersionOf"

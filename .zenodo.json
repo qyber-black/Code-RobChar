@@ -1,0 +1,44 @@
+{
+    "description": "<p>Code for robustness characterization of quantum controls and quantum control algorithms. This is code accompanying the work Statistically Characterising Robustness and Fidelity of Quantum Controls and Quantum Control Algorithms (2022), arXiv:2207.07801</p>", 
+    "license": "apache-2.0", 
+    "tite": "RobChar: Robust Characterisation of Quantum Controls and Control Algorithms",
+    "version": "v1.0.1", 
+    "upload_type": "software", 
+    "publication_date": "2022-07-23", 
+    "creators": [
+        {
+            "affiliation": "Cardiff University",
+            "name": "Irtaza Khalid"
+        }, 
+        { 
+            "affiliation": "Bristol University",
+            "name": "Carrie A. Weidner"
+        },
+        {
+            "affiliation": "Swansea University",
+            "name": "Sophie Shermer"
+        },
+        {
+            "affiliation": "Cardiff University", 
+            "name": "Frank Langbein"
+        }
+    ], 
+    "access_right": "open", 
+    "related_identifiers": [
+        {
+            "scheme": "url", 
+            "identifier": "https://github.com/qyber-black/robchar_public", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "url", 
+            "identifier": "https://qyber.black/spinnet/code-robchar", 
+            "relation": "isSupplementTo"
+        }, 
+        {
+            "scheme": "doi", 
+            "identifier": "10.5281/zenodo.6891152", 
+            "relation": "isVersionOf"
+        }
+    ]
+}

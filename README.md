@@ -64,5 +64,5 @@ The mirrors are only for convenience, accessibility and backup.
 
 # Citation
 
-I. Khalid, C. A. Weidner, E. A. Jonckheere, S. G. Shermer, F. C. Langbein. **RobChar: Robust Characterisation of Quantum Controls and Control Algorithms**, V1.0.1. Code, git@qyber.black:spinnet/code-robchar.git, 22nd July 2022.
-[[DOI:10.5281/zenodo.6891381]](https://doi.org/10.5281/zenodo.6891381)
+I. Khalid, C. A. Weidner, E. A. Jonckheere, S. G. Shermer, F. C. Langbein. **RobChar: Robust Characterisation of Quantum Controls and Control Algorithms**. Code, git@qyber.black:spinnet/code-robchar.git, 2022.
+[[DOI:10.5281/zenodo.6891381]](https://doi.org/10.5281/zenodo.6891152)

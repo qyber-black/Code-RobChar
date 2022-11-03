@@ -8,8 +8,8 @@ In the paper, we don't enable the Z interaction available in the code.
 To setup, please run 
 
 ```bash
-git clone https://github.com/qyber-black/robchar_public/
-cd robchar_public
+git clone git@qyber.black:spinnet/code-robchar.git
+cd  code-robchar
 pip3 install -r requirements.txt
 ```
 
@@ -58,11 +58,11 @@ The code is developed and maintained on [qyber\black](https://qyber.black)
 at https://qyber.black/spinnet/code-robchar
 
 This code is mirrored at
-* https://github.com/qyber-black/robchar_public
+* git@qyber.black:spinnet/code-robchar.git
 
 The mirrors are only for convenience, accessibility and backup.
 
 # Citation
 
-I. Khalid, C. A. Weidner, E. A. Jonckheere, S. G. Shermer, F. C. Langbein. **RobChar: Robust Characterisation of Quantum Controls and Control Algorithms**, V1.0.1. Code, https://github.com/Qyber-black/robchar_public, 22nd July 2022.
+I. Khalid, C. A. Weidner, E. A. Jonckheere, S. G. Shermer, F. C. Langbein. **RobChar: Robust Characterisation of Quantum Controls and Control Algorithms**, V1.0.1. Code, git@qyber.black:spinnet/code-robchar.git, 22nd July 2022.
 [[DOI:10.5281/zenodo.6891381]](https://doi.org/10.5281/zenodo.6891381)

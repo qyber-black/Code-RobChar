@@ -58,7 +58,7 @@ The code is developed and maintained on [qyber\black](https://qyber.black)
 at https://qyber.black/spinnet/code-robchar
 
 This code is mirrored at
-* git@qyber.black:spinnet/code-robchar.git
+* https://qyber.black/spinnet/code-robchar
 
 The mirrors are only for convenience, accessibility and backup.
 
